@@ -15,8 +15,3 @@ install requirements.txt using the following command
 ```bash
 pip install -r requirements.txt
 ``` 
-
-### Step 2
-```bash
-python app.py
-```
